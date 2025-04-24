@@ -87,7 +87,7 @@ plt.show()
 ![Screenshot 2025-03-05 225448](https://github.com/user-attachments/assets/5e8daf0a-6563-425d-85dd-03b64bd841ba)
 ### Y Values
 ![Screenshot 2025-03-05 225505](https://github.com/user-attachments/assets/1b216402-94fa-47dd-90f2-38f79ed4301c)
-### Y_Prediction Values
+### Y_Predicted Values
 ![Screenshot 2025-03-05 225708](https://github.com/user-attachments/assets/5792a960-7bc6-46b7-b915-f0bb02dab370)
 ### Y_Test Values
 ![Screenshot 2025-03-05 225752](https://github.com/user-attachments/assets/bafb8ffb-52c1-4894-9638-e4a8d62b7157)
